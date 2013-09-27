@@ -14,6 +14,10 @@ class HelloWorld(object):
     def Print2(self):
         print "Hello World2"
         
+                
+    def Print3(self):
+        print "Hello World3"
+        
     def __init__(self):
         '''
         Constructor

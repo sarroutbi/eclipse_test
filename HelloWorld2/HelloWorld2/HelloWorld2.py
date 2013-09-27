@@ -9,6 +9,7 @@ def main():
     hello = HelloWorld()
     hello.Print()
     hello.Print2()
-
+    hello.Print3()
+    
 if __name__ == '__main__':
     main()
